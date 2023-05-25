@@ -1,6 +1,6 @@
 streamlit
-datetime
+pickle
 pandas
-numpy
 yfinance
-scipy
+scikit-learn
+numpy
